@@ -20,6 +20,6 @@ O CSS principal está em `styles.css`. `components/ui/zoom-parallax.tsx` é uma 
 
 ## Conteúdo pendente para publicação
 
-Confirme telefone/WhatsApp, endereço, horários, serviços e canais sociais oficiais. A consulta local apenas resume a preferência; não envia dados nem realiza reservas. Nenhum backend é necessário para executar esta versão. As fotografias são referências de banco de imagens do Unsplash, identificadas como tal, e não fotos da empresa. Substitua por imagens autorizadas do espaço quando disponíveis.
+WhatsApp oficial: (47) 99652-3503 (https://wa.me/5547996523503). Os botões principais abrem uma conversa; o formulário inclui serviço e data na mensagem, que o cliente deve enviar. A reserva depende da confirmação da equipe. Confirme endereço, horários, serviços e canais sociais oficiais. Nenhum backend é necessário para executar esta versão. As fotografias são referências de banco de imagens do Unsplash, identificadas como tal, e não fotos da empresa. Substitua por imagens autorizadas do espaço quando disponíveis.
 
 Movimentos respeitam `prefers-reduced-motion`. Navegação por teclado, menu móvel e links internos são suportados. Não há modelo 3D: a profundidade visual usa transformações CSS e Framer Motion.
